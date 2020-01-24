@@ -1,6 +1,22 @@
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * Problem:
+ * A permutation, also called an “arrangement number” or “order,” is a rearrangement of the elements of an ordered list S into a one-to-one correspondence with S itself. 
+ * A string of length n has n! permutation.
+ * 
+ * Solution:
+ * The idea is to swap each of the remaining characters in the string with its first character 
+ * and then find all the permutations of the remaining characters using a recursive call. 
+ * The base case of the recursion is when the string is left with only one unprocessed element. 
+ * 
+ * References:
+ * https://www.geeksforgeeks.org/print-all-permutations-of-a-string-with-duplicates-allowed-in-input-string/
+ * https://www.techiedelight.com/find-permutations-given-string/
+ *
+ */
+
 public class PermutationsOfString {
 
 	// Utility function to swap two characters in a character array

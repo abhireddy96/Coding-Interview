@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="Arrays"/>
-	<classpathentry kind="src" path="String"/>
+	<classpathentry kind="src" path="Strings"/>
 	<classpathentry kind="src" path="Problem Solving"/>
-	<classpathentry kind="src" path="Bitwise"/>
+	<classpathentry kind="src" path="Bit Manipulation"/>
+	<classpathentry kind="src" path="Stacks and Queues"/>
+	<classpathentry kind="src" path="Linked Lists"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
