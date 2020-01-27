@@ -4,8 +4,10 @@
 	<classpathentry kind="src" path="Strings"/>
 	<classpathentry kind="src" path="Problem Solving"/>
 	<classpathentry kind="src" path="Bit Manipulation"/>
-	<classpathentry kind="src" path="Stacks and Queues"/>
+	<classpathentry kind="src" path="Stacks"/>
 	<classpathentry kind="src" path="Linked Lists"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Heaps"/>
+	<classpathentry kind="src" path="Queues"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_172"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
